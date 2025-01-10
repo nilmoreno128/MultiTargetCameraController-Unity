@@ -5,7 +5,6 @@ A Unity script that allows the camera to smoothly follow multiple targets simult
 - **Follow Multiple Targets**: Track multiple objects at once with smooth camera transitions.  
 - **Dynamic Camera Height**: The camera adjusts its height based on the distance between the targets.  
 - **Smooth Camera Movement**: Camera transitions smoothly between positions using a customizable smoothing factor.  
-- **Height Limitations**: Apply configurable minimum and maximum height limits to the camera.  
 - **Customizable Settings**: Easily adjust offset, smooth time, and camera height settings to fit the needs of your game.
 
 ## Installation  
