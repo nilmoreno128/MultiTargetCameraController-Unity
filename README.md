@@ -12,7 +12,7 @@ A Unity script that allows the camera to smoothly follow multiple targets simult
 - **Customizable Settings**: Easily adjust offset, smooth time, and camera height settings to fit the needs of your game.
 
 ## Installation  
-1. Download the `MultiTargetCameraController.unitypackage` file from this repository.  
+1. Download the [`MultiTargetCameraController.unitypackage`](MultiTargetCameraController.unitypackage) file from this repository.  
 2. Open your Unity project and go to **Assets > Import Package > Custom Package**.  
 3. Select the `MultiTargetCameraController.unitypackage` file and click **Import**.  
 4. After importing, attach the `MultiTargetCameraController` script to your main camera in the scene.
