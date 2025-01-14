@@ -1,7 +1,7 @@
 # Multi Target Camera Controller  
 
 ![MultiTargetCamera Example](Media/GIF1%20-%20README.gif)  
-*An example of the camera dynamically following multiple targets.*
+*An example of the camera following multiple targets.*
 
 A Unity script that allows the camera to smoothly follow multiple targets simultaneously. It dynamically adjusts the camera's position and height based on the number of targets, providing a smooth and immersive experience for games that need to track multiple objects at once.
 
